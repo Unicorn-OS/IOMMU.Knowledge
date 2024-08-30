@@ -8,5 +8,7 @@ https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/virtual
 https://www.reddit.com/r/VFIO/comments/gwsw6y/iommu_groups_explained_or_how_to_run_dual_gpus/
 
 # source:
-## List:
+## List()
 sch: https://www.google.com/search?q=list+iommu+groups
+
+https://gist.github.com/flungo/428c374c040de1d0a30fd4a593d39040
