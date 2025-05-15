@@ -1,5 +1,4 @@
 # IOMMU.Knowledge
-sch: https://www.google.com/search?q=iommu+groups
 
 # Guide:
 https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/virtualization_deployment_and_administration_guide/sect-iommu-deep-dive
